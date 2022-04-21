@@ -7,4 +7,4 @@
 
 ## Config:
 
-Rename `.env.example` to `.env` and add the domain and port of server
+Copy and rename `.env.example` to `.env` and add the domain/ip and port of server
